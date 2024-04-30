@@ -13,7 +13,6 @@
 #include <errno.h>
 #include <pthread.h>
 
-
 //tablica_zmiennych[1] - blokuje przekaz i doczyt procesow jesli rowne 0
 //tablica_zmiennych[2] - blokuje kodowanie jesli rowne 0
 
