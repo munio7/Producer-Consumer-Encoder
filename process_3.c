@@ -17,7 +17,6 @@ pid_t m;
 int* tablica_zmiennych;
 char *shared_memory;
 
-
 //Funkcje obsługujące sygnały
 //Proces musi zalarmować pozostałe procesy o otrzymaniu sygnału
 
