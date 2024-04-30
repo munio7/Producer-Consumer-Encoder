@@ -18,3 +18,4 @@ Additionally, a user can send signals to each of the processes to initiate a spe
 -> SIGRTMIN: Turns ON/OFF data encryption between Process 1 and Process 2.
   
 This program is using a semaphore and mutex as a tool of managing all processes.
+Note that this code is for showcasing a solution to a problem of managing 3 processes, running it correctly requires creating specific names of the files and saving them on designated path.
