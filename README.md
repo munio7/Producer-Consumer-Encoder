@@ -7,7 +7,7 @@ A multi-process application demonstrating synchronous inter-process communicatio
 
 -> Writer (Process 3): Collects the encoded data from the encoder process and displays it, showcasing the end-to-end process of reading, encoding, and outputting resource paths.
 
-Additionally, a user can send signals to each of the processes to initiate a specific action. Possible actions are:
+Additionally, a user can send signals to each of the processes to initiate a specific action. Possible signals are:
 
 -> SIGIO: Ends a program, releasing all resources.
 
